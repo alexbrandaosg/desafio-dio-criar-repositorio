@@ -1,2 +1,2 @@
-#Arquivo Readme
-##Teste de criação de repositório no Github
+Arquivo Readme
+Teste de criação de repositório no Github

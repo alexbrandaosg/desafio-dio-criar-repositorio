@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 Projeto teste para aprender a usar o GIT
-Isso é uma alteração
+
 =======
 Arquivo Readme
 Teste de criação de repositório no Github
